@@ -1,0 +1,4 @@
+<template>
+ <h1 style="background-color: red;">Hello world</h1>
+ <p>Bormey </p>
+</template>
